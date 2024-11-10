@@ -15,7 +15,7 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // Add any node event listeners here, if needed
     },
-    baseUrl: "http://localhost:3000",
-    supportFile: "cypress/support/e2e.ts", // For e2e tests (can be omitted if not needed)
+    baseUrl: "http://127.0.0.1:3001/",
+    supportFile: "cypress/support/e2e.js", // For e2e tests (can be omitted if not needed)
   },
 });
