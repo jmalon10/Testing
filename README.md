@@ -19,6 +19,10 @@ After cloning the repository, open an intergated terminal in the root package.js
 - npm i
 - npm run build
 - npm run start:dev
+
+https://github.com/user-attachments/assets/aed2a02e-5969-48f5-821b-e7ee5db9acc1
+
+
 Open a seperate terminal in the root of the project and..
 - npm run test 
 ## License
